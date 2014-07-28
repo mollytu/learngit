@@ -9,3 +9,4 @@ new feature1
 add merge
 Hello, 
 I'm girl A
+I'm girl B
