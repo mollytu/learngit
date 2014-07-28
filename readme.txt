@@ -6,3 +6,4 @@ git tracks changes
 add one line in dev branch
 add one line conflic with branch feature1
 new feature1
+add merge
